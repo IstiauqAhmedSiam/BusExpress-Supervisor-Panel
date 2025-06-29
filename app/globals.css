@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+#qrcode-reader__scan_region {
+    display: flex;
+    justify-content: center;
+}
+
+#html5-qrcode-button-camera-start,
+#html5-qrcode-button-camera-stop {
+    background: #d01616;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+#html5-qrcode-button-camera-start {
+    background: #3363f7;
+}
